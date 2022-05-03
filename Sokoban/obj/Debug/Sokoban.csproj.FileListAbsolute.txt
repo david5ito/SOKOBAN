@@ -1,0 +1,11 @@
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.csprojAssemblyReference.cache
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.Form1.resources
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.InicioSesion.resources
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.Registro.resources
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.cache
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\Claudia\Documents\SEXTO SEMESTRE\Laura\Sokoban\obj\Debug\Sokoban.pdb
